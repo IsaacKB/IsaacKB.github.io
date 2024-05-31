@@ -1,0 +1,35 @@
+{
+    "name": "ikb_company",
+    "short_name": "ikb_company",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Somos uma empresa jovem e dinâmica, dedicada a impulsionar o sucesso de empresas emergentes. Fundada em 2022, nossa missão é transformar ideias inovadoras em realidades tangíveis por meio de soluções personalizadas em desenvolvimento de software e marketing digital. Estamos comprometidos em ser parceiros ágeis e confiáveis, trabalhando lado a lado com nossos clientes para alcançar seus objetivos e superar expectativas.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
